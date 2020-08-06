@@ -13,7 +13,7 @@
 - [Components](#components)
 - [Description](#description)
 - [Code](#code)
-- [Author Info](#author-info)
+- [Team Info](#team-info)
 
 ---
 
@@ -167,7 +167,7 @@ delay(300); //Slow down the speed of robot
 
 ---
 
-## Author Info
+## Team Info
 
 Gusac Projects Team
 
